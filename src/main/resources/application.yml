@@ -1,5 +1,6 @@
 app:
-  description: "Smart E-Commerce Purchase API"
+  version: "1.0.0"
+  description: "Smart E-Commerce Platform"
 spring:
   # ── PostgreSQL + JPA ───────────────────────────────────────
   datasource:
